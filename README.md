@@ -152,7 +152,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Fidelity | Boston, MA | **🔒 Closed 🔒** Data Analytics Intern |
 | Cohen & Co | Multiple Locations in the US | **🔒 Closed 🔒** Software Development Internship |
 | Figma | NY, SF | **🔒 Closed 🔒** Software Engineer Intern |
-| [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | SWE Intern |
+| [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | [SWE Intern](https://flatiron.com/careers/open-positions/4454681) |
 | Redfin | Seattle, Frisco, San Francisco |**🔒 Closed 🔒** Software Developer: 2023 Internship, Data Analyst: 2023 Internship|
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
 | SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
@@ -236,7 +236,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=intern) | Atlanta, GA | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
 | [Adobe](https://careers.adobe.com/us/en/job/R131734/2023-Intern-Machine-Learning-Engineer-Intern) | Various | Machine Learning Engineer intern |
 | Merge | San Francisco, CA & New York City, NY | **🔒 Closed 🔒** Software Engineer Intern (Summer 2023) |
-| [NASA Jet Propulsion Laboratory](https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern) | Pasadena, CA | Summer 2023 Software Engineer Intern (Must be Legal Permanent Resident of US, e.g., US Citizenship) |
+| NASA Jet Propulsion Laboratory | Pasadena, CA | **🔒 Closed 🔒** Summer 2023 Software Engineer Intern |
 | [Lowe's](https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern) | Charlotte, NC | Software Engineer, Undergraduate Intern |
 | [Collins Aerospace](https://careers.rtx.com/global/en/job/01553158) | Cedar Rapids, Iowa | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern) | Various | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
